@@ -1,12 +1,13 @@
 <!DOCTYPE html>
+
+<?php ?>
+
 <html lang="pt-br">
 <head>
-
-    <meta charset=utf-8" />
-    <title>Atividade</title>
+    <meta charset="utf-8" />
+    <title><?=$title?></title>
     <link rel="stylesheet" href="css/bootstrap.css" charset="UTF-8">
     <link rel="stylesheet" href="css/atividade.css" charset="UTF-8">
-
 </head>
 <body>
 
